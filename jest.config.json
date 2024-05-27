@@ -1,0 +1,6 @@
+{
+    "transform": {},
+    "setupFiles": [
+        "./test-setup.js"
+    ]
+}
